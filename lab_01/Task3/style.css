@@ -1,0 +1,29 @@
+p{
+    font-size: 36px;
+}
+
+.box
+{
+    display: inline-block;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 1px;
+    width: 250px;
+    height: 200px;
+    background-color: lightgray;
+    font-size: 165px;
+    letter-spacing: -10px;
+    text-align: center;
+}
+
+.box-black
+{
+    color: black;
+}
+
+.box-red
+{
+    color: brown;
+}
