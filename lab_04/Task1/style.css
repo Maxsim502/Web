@@ -1,0 +1,21 @@
+div
+{
+    text-align: center;
+}
+
+.container {
+    display: block;
+    height: 400px;
+    width:600px;
+    overflow: hidden; 
+    margin: 0 auto;
+    box-shadow: 2px 2px 5px;
+}
+  
+.photos {
+    width: 600px;
+}
+  
+.photos img {
+    max-width: 100%;
+}
