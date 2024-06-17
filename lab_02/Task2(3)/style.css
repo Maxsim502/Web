@@ -1,0 +1,30 @@
+ul
+{
+    padding-left: 0;
+}
+
+li
+{
+    list-style-position: inside;
+    padding:10px;
+    list-style-type: "\2610";
+    height: fit-content;
+    width: 200px;
+}
+
+.checked
+{
+    list-style-type: "\2611";
+    text-decoration: line-through ;
+    background-color: lightgray !important;
+}
+
+li:nth-child(even)
+{
+    background-color: aqua;
+}
+
+li:nth-child(odd)
+{
+    background-color:aquamarine;
+}
